@@ -1,2 +1,3 @@
 alright
 it is in etc directory
+contains users information in 7 fields
